@@ -42,7 +42,7 @@
 <p>Measure the performance parameters:For each cleaning performance incremented, for each movement performance decremented
 
 CODE:</p>
-```
+```python
 
 import random
 import time
